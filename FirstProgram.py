@@ -3,7 +3,7 @@ print("thid is my fisrt programe")
 print ("i hope you all like it "
        "i love this tutorial")
 
-#for wright multople line(Use triple quotation mark Or \n)
+#for wright multiple line(Use triple quotation mark Or \n)
 print("""hello world 
       this is my first programe 
       i love this tutorial""")
